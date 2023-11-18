@@ -15,10 +15,10 @@ const Hero = () => {
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                Unleash Your Startup's Potential with Our Free, Open-Source Next.js Template.
+                Unleash Your tinytech's Potential with Our Free, Open-Source Next.js Template.
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                Meet 'Startup': a free Next.js template crafted for startups and SaaS websites. It's packed with essential pages, components, and sections, all powered by Next.js 13.x and Tailwind CSS.
+                Meet 'tinytech': a free Next.js template crafted for tinytechs and SaaS websites. It's packed with essential pages, components, and sections, all powered by Next.js 13.x and Tailwind CSS.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
